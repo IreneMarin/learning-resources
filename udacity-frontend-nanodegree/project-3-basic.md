@@ -44,3 +44,4 @@ Forum thread with links to OOJ resources</a>
 <a href="https://discussions.udacity.com/t/oojs-resource-collection/31214" target="_blank">
 Another forum thread with useful links</a>
 
+And the forums. There are tons of answers and information in there.
