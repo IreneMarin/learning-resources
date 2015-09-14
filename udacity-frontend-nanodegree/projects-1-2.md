@@ -14,9 +14,6 @@ Make a website course</a>, in Codecademy
 
 <a href="https://www.google.com/fonts" target="_blank">Google Fonts</a>
 
-For all the specific problems with project 1 or 2 (encapsulation, Google Maps not showing, etc), 
-in the forums there are lots of answers.
-
 --------------------------------
 
 ### Grunt 
