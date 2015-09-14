@@ -25,8 +25,8 @@ Detailed instructions on getting started</a>, from Udacity. Really useful!
 Forum thread with instructions to start</a>, from Xinyang
 
 <a href="http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/" target="_blank">
-How to make a simple HTML5 canvas game</a>, from Lost Decade Games. This one will help you create an 
-easy game and understand better the process of what a canvas game needs to do.
+How to make a simple HTML5 canvas game</a>, from Lost Decade Games. This one will helps create an 
+easy game to understand better the process of what a canvas game needs to do.
 
 <a href="http://jlongster.com/Making-Sprite-based-Games-with-Canvas" target="_blank">
 Making sprite-based games with canvas</a>. This one goes a little bit further that the previous one, more challenging to understand.
@@ -43,5 +43,3 @@ Forum thread with links to OOJ resources</a>
 
 <a href="https://discussions.udacity.com/t/oojs-resource-collection/31214" target="_blank">
 Another forum thread with useful links</a>
-
-And the forums. There are tons of answers and information in there.
