@@ -18,8 +18,6 @@ No Tears Guide to HTML5 Gamesa</a>
 <a href="https://www.udacity.com/course/html5-game-development--cs255" target="_blank">
 Udacity course: HTML5 Game Development</a>
 
-And the forums. All the posts. There are tons of answers and information in there.
-
 --------------------------------------------
 
 ### Some of the forums most useful threads
