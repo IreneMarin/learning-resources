@@ -1,38 +1,33 @@
 ## Useful resources for project 1 & 2
 
-<a href="https://www.codecademy.com/tracks/web" target="_blank">
-HTML & CSS course</a>, in Codecademy
+[HTML & CSS course](https://www.codecademy.com/tracks/web), in Codecademy
 
-<a href="https://www.codecademy.com/skills/make-a-website" target="_blank">
-Make a website course</a>, in Codecademy
+[Make a website course](https://www.codecademy.com/skills/make-a-website), in Codecademy
 
-<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+[Bootstrap](http://getbootstrap.com/)
 
-<a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Fontawesome icons</a><br>
-<a href="https://www.iconfinder.com/" target="_blank">Iconfinder</a><br>
-<a href="http://unicode-table.com/en/" target="_blank">Unicode character table</a>
+[Fontawesome icons](http://fortawesome.github.io/Font-Awesome/)<br>
+[Iconfinder](https://www.iconfinder.com/)<br>
+[Unicode character table](http://unicode-table.com/en/)
 
-<a href="https://www.google.com/fonts" target="_blank">Google Fonts</a>
+[Google Fonts](https://www.google.com/fonts)
 
 --------------------------------
 
 ### Grunt 
 
-<a href="https://24ways.org/2013/grunt-is-not-weird-and-hard/" target="_blank">
-Grunt is not weird and hard</a>, useful page to learn to use Grunt step by step for beginners
+[Grunt is not weird and hard](https://24ways.org/2013/grunt-is-not-weird-and-hard/), useful page to learn to use Grunt step by step for beginners
 
-<a href="https://discussions.udacity.com/t/grunt-and-setting-up-a-grunt-workflow-intermediate/21984" target="_blank">
-Grunt and setting up a grunt workflow</a>, Udacity's post with everything needed to use Grunt
+[Grunt and setting up a grunt workflow](https://discussions.udacity.com/t/grunt-and-setting-up-a-grunt-workflow-intermediate/21984), Udacity's post with everything needed to use Grunt
 
-<a href="http://gruntjs.com/" target="_blank">GruntJS official page</a>
+[GruntJS official page](http://gruntjs.com/)
 
 -----------------------------------
 
 ### Tools to valide the code 
 
-<a href="http://jshint.com/" target="_blank">JSHint</a> for JavaScript
+[JSHint](http://jshint.com/) for JavaScript
 
-<a href="http://jsonlint.com/" target="_blank">JSONLint</a> for JSON
+[JSONLint](http://jsonlint.com/) for JSON
 
-<a href="https://validator.w3.org/#validate_by_input+with_options" target="_blank">
-HTML Validator</a> (remember to specify that is HTML5)
+[HTML Validator](https://validator.w3.org/#validate_by_input+with_options) (remember to specify that is HTML5)
