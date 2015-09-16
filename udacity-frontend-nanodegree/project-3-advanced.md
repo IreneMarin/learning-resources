@@ -13,7 +13,7 @@ HTML5 Game Tutorial: Galaxian Shooter</a>
 Finite-State Machines: theory and implementation</a>
 
 <a href="http://www.html5rocks.com/en/tutorials/canvas/notearsgame/" target="_blank">
-No Tears Guide to HTML5 Gamesa</a>
+No Tears Guide to HTML5 Games</a>
 
 <a href="https://www.udacity.com/course/html5-game-development--cs255" target="_blank">
 Udacity course: HTML5 Game Development</a>
