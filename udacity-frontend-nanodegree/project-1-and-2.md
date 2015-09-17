@@ -32,6 +32,8 @@
 
 [HTML Validator](https://validator.w3.org/#validate_by_input+with_options) (remember to specify that is HTML5)
 
+[CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
 -------------------
 
 ### Different HTML, CSS and JS links
@@ -44,3 +46,16 @@
 
 [For-loops in Javascript](https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/)
 
+[Game to learn CSS selectors](http://flukeout.github.io/)
+
+----------------------------------
+
+### Editors to work, tools to share the work
+
+[Sublime](http://www.sublimetext.com/), one of the most used code editors
+
+[Atom](https://atom.io/), another good code editor
+
+[CodePen](http://codepen.io/), to share small code
+
+[GitHub](http://github.com), to share code and projects
