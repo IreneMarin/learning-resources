@@ -31,3 +31,16 @@
 [JSONLint](http://jsonlint.com/) for JSON
 
 [HTML Validator](https://validator.w3.org/#validate_by_input+with_options) (remember to specify that is HTML5)
+
+-------------------
+
+### Different HTML, CSS and JS links
+
+[HTML5 reference](http://www.w3.org/TR/html5/)
+
+[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+[Rem vs Em vs Px](https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/)
+
+[For-loops in Javascript](https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/)
+
