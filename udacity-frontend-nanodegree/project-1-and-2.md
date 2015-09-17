@@ -48,6 +48,11 @@
 
 [Game to learn CSS selectors](http://flukeout.github.io/)
 
+Some links to pick colors for the design easily:<br>
+[Color Hex](http://www.color-hex.com/)<br>
+[Flat UI color palette](http://flatui.com/flat-ui-color-palette/)<br>
+[Paletton](http://paletton.com/#uid=10I0u0kvKvsitENojy4xKnREshN)
+
 ----------------------------------
 
 ### Editors to work, tools to share the work
