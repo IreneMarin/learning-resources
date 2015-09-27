@@ -2,15 +2,15 @@
 
 <a href="https://www.codecademy.com/tracks/web" target="_blank">HTML & CSS course</a>, in Codecademy
 
-[Make a website course](https://www.codecademy.com/skills/make-a-website), in Codecademy
+<a href="https://www.codecademy.com/skills/make-a-website" target="_blank">Make a website course</a>, in Codecademy
 
-[Bootstrap](http://getbootstrap.com/)
+<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 
-[Fontawesome icons](http://fortawesome.github.io/Font-Awesome/)<br>
-[Iconfinder](https://www.iconfinder.com/)<br>
-[Unicode character table](http://unicode-table.com/en/)
+<a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Fontawesome icons</a><br>
+<a href="https://www.iconfinder.com/" target="_blank">Iconfinder</a><br>
+<a href="http://unicode-table.com/en/" target="_blank">Unicode character table</a>
 
-[Google Fonts](https://www.google.com/fonts)
+<a href="https://www.google.com/fonts" target="_blank">Google Fonts</a>
 
 --------------------------------
 
