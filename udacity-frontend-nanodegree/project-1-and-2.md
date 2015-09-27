@@ -1,6 +1,6 @@
 ## Useful resources for project 1 & 2
 
-[HTML & CSS course](https://www.codecademy.com/tracks/web), in Codecademy
+<a href="https://www.codecademy.com/tracks/web" target="_blank">HTML & CSS course</a>, in Codecademy
 
 [Make a website course](https://www.codecademy.com/skills/make-a-website), in Codecademy
 
