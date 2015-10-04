@@ -30,26 +30,6 @@
 
 <a href="https://jigsaw.w3.org/css-validator/validator" target="_blank">CSS Validator</a>
 
--------------------
-
-### Different HTML, CSS and JS links
-
-<a href="http://www.w3.org/TR/html5/" target="_blank">HTML5 reference</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS reference</a>
-
-<a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/" target="_blank">Rem vs Em vs Px</a>
-
-<a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
-
-<a href="http://www.csszengarden.com/" target="_blank">
-CSS Zen Garden</a> - to get inspiration for css design
-
-Some links to pick colors for the design:<br>
-<a href="http://www.color-hex.com/" target="_blank">Color Hex</a><br>
-<a href="http://flatui.com/flat-ui-color-palette/" target="_blank">Flat UI color palette</a><br>
-<a href="http://paletton.com/" target="_blank">Paletton</a>
-
 ----------------------------------
 
 ### Editors to work, tools to share the work
@@ -64,7 +44,7 @@ Some links to pick colors for the design:<br>
 
 -------------------------------------
 
-### Responsive web development & web optimization 
+### Responsive web development
 
 <a href="https://developers.google.com/web/fundamentals/layouts/rwd-patterns/index?hl=en" target="_blank">
 Responsive web design patterns</a>
@@ -72,5 +52,28 @@ Responsive web design patterns</a>
 <a href="https://github.com/santhoshvai/Responsive-Web-Design-Fundamentals/wiki/4-Common-Responsive-patterns" target="_blank">
 4 common responsive patterns</a>
 
+<a href="https://www.youtube.com/watch?v=-_0LpTGOE_w&list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX&index=7" target="_blank">
+Building a Modern Web UI</a>
+
+-------------------
+
+### Other useful links
+
+<a href="http://www.w3.org/TR/html5/" target="_blank">HTML5 reference</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS reference</a>
+
+<a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/" target="_blank">Rem vs Em vs Px</a>
+
+<a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
+
 <a href="https://discussions.udacity.com/t/useful-tools-for-web-development/22039" target="_blank">
 Useful tools for web development</a>
+
+<a href="http://www.csszengarden.com/" target="_blank">
+CSS Zen Garden</a> - to get inspiration for css design
+
+Some links to pick colors for the design:<br>
+<a href="http://www.color-hex.com/" target="_blank">Color Hex</a><br>
+<a href="http://flatui.com/flat-ui-color-palette/" target="_blank">Flat UI color palette</a><br>
+<a href="http://paletton.com/" target="_blank">Paletton</a>
