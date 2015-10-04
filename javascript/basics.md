@@ -20,3 +20,6 @@ The two pillars of JavasCript</a>
 
 <a href="http://api.jquery.com/" target="_blank">
 jQuery API documentation</a>
+
+<a href="https://discussions.udacity.com/t/es6-the-future-of-javascript/28364" target="_blank">
+ES6 - The future of JavaScript</a>
