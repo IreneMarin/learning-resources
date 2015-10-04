@@ -1,9 +1,5 @@
 ## Useful resources for project 1 & 2
 
-<a href="https://www.codecademy.com/tracks/web" target="_blank">HTML & CSS course</a>, in Codecademy
-
-<a href="https://www.codecademy.com/skills/make-a-website" target="_blank">Make a website course</a>, in Codecademy
-
 <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 
 <a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Fontawesome icons</a><br>
@@ -45,8 +41,6 @@
 <a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/" target="_blank">Rem vs Em vs Px</a>
 
 <a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
-
-<a href="http://flukeout.github.io/" target="_blank">Game to learn CSS selectors</a>
 
 Some links to pick colors for the design:<br>
 <a href="http://www.color-hex.com/" target="_blank">Color Hex</a><br>
