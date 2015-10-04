@@ -6,6 +6,9 @@ CSS Performance Tooling</a>
 <a href="https://www.youtube.com/watch?v=WjP7TEKB7Uo&index=8&list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R" target="_blank">
 3.14 Things I Didn't Know About CSS</a>
 
+<a href="https://www.youtube.com/watch?v=-_0LpTGOE_w&list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX&index=7" target="_blank">
+Building a Modern Web UI</a>
+
 -----------------------------------
 
 ### JSconf
