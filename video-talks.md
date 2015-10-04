@@ -3,6 +3,9 @@
 <a href="https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLvnI7cZBCpyZttGHLrrzTquMqiZIsAnfl&index=1" target="_blank">
 CSS Performance Tooling</a>
 
+<a href="https://www.youtube.com/watch?v=WjP7TEKB7Uo&index=8&list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R" target="_blank">
+3.14 Things I Didn't Know About CSS</a>
+
 -----------------------------------
 
 ### JSconf
