@@ -1,4 +1,4 @@
-## HTML5 canvas game tutorials
+### HTML5 canvas game tutorials
 
 <a href="http://www.html5gamedevelopment.com/html5-game-tutorials/2013-06-5-part-html5-game-tutorial-galaxian-shooter" target="_blank">
 HTML5 Game Tutorial: Galaxian Shooter</a>
