@@ -61,3 +61,16 @@ Some links to pick colors for the design:<br>
 <a href="http://codepen.io/" target="_blank">CodePen</a>, to share small code
 
 <a href="http://github.com" target="_blank">GitHub</a>, to share code and projects
+
+-------------------------------------
+
+### Responsive web development & web optimization 
+
+<a href="https://developers.google.com/web/fundamentals/layouts/rwd-patterns/index?hl=en" target="_blank">
+Responsive web design patterns</a>
+
+<a href="https://github.com/santhoshvai/Responsive-Web-Design-Fundamentals/wiki/4-Common-Responsive-patterns" target="_blank">
+4 common responsive patterns</a>
+
+<a href="https://discussions.udacity.com/t/useful-tools-for-web-development/22039" target="_blank">
+Useful tools for web development</a>
