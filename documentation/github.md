@@ -17,3 +17,6 @@ Where to find Open Source projects</a>
 
 <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">
 GitHub Flavored Markdown</a>
+
+<a href="https://discussions.udacity.com/t/great-open-source-repositories-on-github/24229" target="_blank">
+Great Open Source repositories on GitHub</a>
