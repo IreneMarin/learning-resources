@@ -9,6 +9,9 @@ CSS Performance Tooling</a>
 <a href="https://www.youtube.com/watch?v=-_0LpTGOE_w&list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX&index=7" target="_blank">
 Building a Modern Web UI</a>
 
+<a href="https://www.youtube.com/watch?v=Tk_0qYEFtAY&list=PL37ZVnwpeshHFbT0mLTNMtMGO1mo6yPRX&index=1" target="_blank">
+Build Scalable, Automated CSS</a>
+
 -----------------------------------
 
 ### JSconf
