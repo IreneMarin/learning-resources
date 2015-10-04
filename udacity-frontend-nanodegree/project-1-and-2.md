@@ -42,6 +42,9 @@
 
 <a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
 
+<a href="http://www.csszengarden.com/" target="_blank">
+CSS Zen Garden</a> - to get inspiration for css design
+
 Some links to pick colors for the design:<br>
 <a href="http://www.color-hex.com/" target="_blank">Color Hex</a><br>
 <a href="http://flatui.com/flat-ui-color-palette/" target="_blank">Flat UI color palette</a><br>
