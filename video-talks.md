@@ -10,6 +10,8 @@
 
 <a href="https://www.youtube.com/watch?v=_98SE8WUvLk&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9&index=13" target="_blank">Enhancing Responsiveness With Flexbox</a>
 
+<a href="https://www.youtube.com/watch?v=-D81Qj1YmPM&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK&index=9" target="_blank">Real metrics for front-end performance</a>
+
 -----------------------------------
 
 ### JSconf
