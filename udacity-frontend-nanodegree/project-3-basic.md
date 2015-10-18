@@ -1,5 +1,8 @@
 ## Resources to go from project 2 to project 3: 
 
+<a href="http://www.frogger.net/" target="_blank">
+Example of a Frogger Game</a> (not the one from Udacity, just another with the same game dynamics)
+
 ### To learn the basic JavaScript knowledge
 
 <a href="https://www.codecademy.com/en/tracks/javascript" target="_blank">
