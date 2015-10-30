@@ -1,4 +1,4 @@
-## Jasmine
+## Resources for JavaScript testing with Jasmine
 
 <a href="http://jasmine.github.io/2.3/introduction.html" target="_blank">
 Jasmine documentation</a>
