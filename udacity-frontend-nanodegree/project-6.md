@@ -9,3 +9,5 @@ Jasmine tutorial</a>
 <a href="http://www.htmlgoodies.com/beyond/javascript/js-ref/testing-dom-events-using-jquery-and-jasmine-2.0.html" target"_blank">
 Testing DOM Events using Jasmine and jQuery</a>
 
+<a href="http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/" target="_blank">
+Cheat Sheet</a>
