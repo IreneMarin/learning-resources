@@ -11,3 +11,6 @@ Testing DOM Events using Jasmine and jQuery</a>
 
 <a href="http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/" target="_blank">
 Cheat Sheet</a>
+
+<a href="https://www.youtube.com/playlist?list=PLOxOmO43E6Jt0SruKGxtZs-W3PJN90G_a" target="_blank">
+Video tutorials</a>
