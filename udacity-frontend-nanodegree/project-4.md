@@ -10,6 +10,6 @@ How to optimize the background pizzas</a>
 
 ----------------------------------------------------
 
-### Evaluation rubric: 
+### Evaluation rubric
 
 <img src="img/optimization.png">
