@@ -14,3 +14,9 @@ Cheat Sheet</a>
 
 <a href="https://www.youtube.com/playlist?list=PLOxOmO43E6Jt0SruKGxtZs-W3PJN90G_a" target="_blank">
 Video tutorials</a>
+
+---------------------------------------------------
+
+### Evaluation rubric
+
+<img src="img/testing.png">
