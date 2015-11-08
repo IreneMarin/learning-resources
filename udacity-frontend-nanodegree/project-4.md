@@ -7,3 +7,9 @@ Dirty performance secrets of HTML5</a>
 
 <a href="https://discussions.udacity.com/t/project-4-how-do-i-optimize-the-background-pizzas-for-loop/36302" target="_blank">
 How to optimize the background pizzas</a>
+
+----------------------------------------------------
+
+### Evaluation rubric: 
+
+<img src="img/optimization.png">
