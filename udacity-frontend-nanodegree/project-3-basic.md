@@ -49,7 +49,6 @@ Another forum thread with useful links</a>
 
 ----------------------------------------------------
 
-### Project 3 specifications: 
+### Project 3 evaluation rubric: 
 
-<a href="https://www.udacity.com/course/viewer#!/c-nd001/l-2696458597/m-2687128535" target="_blank">
-Evaluation rubric</a>
+<img src="img/arcade.png">
