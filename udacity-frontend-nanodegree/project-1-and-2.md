@@ -77,3 +77,12 @@ Some links to pick colors for the design:<br>
 <a href="http://www.color-hex.com/" target="_blank">Color Hex</a><br>
 <a href="http://flatui.com/flat-ui-color-palette/" target="_blank">Flat UI color palette</a><br>
 <a href="http://paletton.com/" target="_blank">Paletton</a>
+
+----------------------
+
+### Project 1 specifications: 
+
+<a href="https://www.udacity.com/course/viewer#!/c-nd001/l-2736698543/m-3881828682" target="_blank">
+Rubric</a>
+
+<a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">Style Guide</a>
