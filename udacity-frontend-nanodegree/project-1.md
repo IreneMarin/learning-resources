@@ -22,10 +22,6 @@
 
 ### Tools to valide the code 
 
-<a href="http://jshint.com/" target="_blank">JSHint</a> for JavaScript
-
-<a href="http://jsonlint.com/" target="_blank">JSONLint</a> for JSON
-
 <a href="https://validator.w3.org/#validate_by_input+with_options" target="_blank">HTML Validator</a> (remember to specify that is HTML5)
 
 <a href="https://jigsaw.w3.org/css-validator/validator" target="_blank">CSS Validator</a>
@@ -65,8 +61,6 @@ Building a Modern Web UI</a>
 
 <a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/" target="_blank">Rem vs Em vs Px</a>
 
-<a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
-
 <a href="https://discussions.udacity.com/t/useful-tools-for-web-development/22039" target="_blank">
 Useful tools for web development</a>
 
@@ -80,10 +74,10 @@ Some links to pick colors for the design:<br>
 
 ----------------------
 
-### Evaluation rubrics and Udacity's Style Guide 
+### Evaluation rubric and Udacity's Style Guide 
 
-Project 2. Interactive resume
-<img src="img/resume.png">
+<img src="img/1a.png">
+<img src="img/1b.png">
+<img src="img/1c.png">
 
-Style Guide: <a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">HTML</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/css.html" target="_blank">CSS</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html" target="_blank">JavaScript</a>
-
+Style Guide: <a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">HTML</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/css.html" target="_blank">CSS</a> 
