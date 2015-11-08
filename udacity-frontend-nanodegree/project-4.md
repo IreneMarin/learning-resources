@@ -8,6 +8,12 @@ Dirty performance secrets of HTML5</a>
 <a href="https://discussions.udacity.com/t/project-4-how-do-i-optimize-the-background-pizzas-for-loop/36302" target="_blank">
 How to optimize the background pizzas</a>
 
+<a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insigths</a>
+
+<a href="http://csstriggers.com/" target="_blank">CSS Triggers</a>
+
+<a href="http://una.im/gulp-local-psi/" target="_blank">Setting up PageSpeed Insights to test performance locally via Gulp</a>
+
 ----------------------------------------------------
 
 ### Evaluation rubric
