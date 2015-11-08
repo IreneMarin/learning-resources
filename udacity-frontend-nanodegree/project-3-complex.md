@@ -44,3 +44,9 @@ Finite state machine to model game states</a>
 <a href="http://www.freesound.org/" target="_blank">FreeSound.org</a>
 
 <a href="http://game-icons.net/" target="_blank">Game-Icons.net</a>
+
+----------------------------------------------------
+
+### Project 3 evaluation rubric: 
+
+<img src="img/arcade.png">
