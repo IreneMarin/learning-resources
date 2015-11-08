@@ -1,4 +1,4 @@
-## Useful resources for project 1 & 2
+## Useful resources for project 1
 
 <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 
