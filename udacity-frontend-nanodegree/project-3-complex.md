@@ -47,6 +47,6 @@ Finite state machine to model game states</a>
 
 ----------------------------------------------------
 
-### Evaluation rubric: 
+### Evaluation rubric
 
 <img src="img/arcade.png">
