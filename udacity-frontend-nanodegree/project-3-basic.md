@@ -49,6 +49,6 @@ Another forum thread with useful links</a>
 
 ----------------------------------------------------
 
-### Evaluation rubric: 
+### Evaluation rubric
 
 <img src="img/arcade.png">
