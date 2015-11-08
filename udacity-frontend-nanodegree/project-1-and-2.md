@@ -83,6 +83,6 @@ Some links to pick colors for the design:<br>
 ### Project 1 specifications: 
 
 <a href="https://www.udacity.com/course/viewer#!/c-nd001/l-2736698543/m-3881828682" target="_blank">
-Rubric</a>
+Project rubric</a>
 
 Style Guide: <a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">HTML</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/css.html" target="_blank">CSS</a>
