@@ -34,6 +34,9 @@ easy game to better understand the process of what a canvas game needs to do.
 <a href="http://jlongster.com/Making-Sprite-based-Games-with-Canvas" target="_blank">
 Making sprite-based games with canvas</a>. This one goes a little bit further that the previous one, more challenging to understand.
 
+<a href="https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection" target="_blank">
+2D collision detection</a>
+
 --------------------------------------------------
 
 ### To understand better the OOJ course
