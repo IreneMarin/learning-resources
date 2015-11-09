@@ -1,12 +1,14 @@
 ## Cool links and stuff to learn
 
-### jQuery
+### JavaScript and jQuery exercises
 
 <a href="http://jqexercise.droppages.com/" target="_blank">
 jQuery Exercises</a>
 
-<a href="https://jsbin.com/xehuletuwo/edit?html,css,js,output" target="_blank">
-JS Bin - Collaborative JavaScript Debugging</a>
+<a href="http://www.sitepoint.com/5-typical-javascript-interview-exercises/" target="_blank">
+5 typical JavaScript interview exercises</a>
+
+<a href="http://madebyknight.com/javascript-scope/" target="_blank">Javascript scope quiz</a>
 
 ### CSS 
 
