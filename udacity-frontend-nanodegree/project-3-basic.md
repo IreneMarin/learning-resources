@@ -50,6 +50,9 @@ Forum thread with links to OOJ resources</a>
 <a href="https://discussions.udacity.com/t/oojs-resource-collection/31214" target="_blank">
 Another forum thread with useful links</a>
 
+<a href="http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/" target="_blank">
+Explaining JavaScript scope and closures</a>
+
 ----------------------------------------------------
 
 ### Evaluation rubric
