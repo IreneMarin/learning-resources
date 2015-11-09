@@ -24,6 +24,12 @@
 
 <a href="https://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/" target="_blank">For-loops in Javascript</a>
 
+<a href="https://www.thinkful.com/learn/javascript-best-practices-1/Use-Shortcut-Notations" target="_blank">
+JavaScript Best Practices</a>
+
+<a href="http://www.choskim.me/when-to-use-semicolons-in-javascript/" target="_blank">
+When to use semicolons in JavaScript</a>
+
 ----------------------
 
 ### Evaluation rubric and Udacity's Style Guide 
