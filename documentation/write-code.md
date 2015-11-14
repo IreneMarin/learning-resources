@@ -19,6 +19,9 @@ How to write the perfect pull request</a>
 <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">
 GitHub Flavored Markdown</a>
 
+<a href="http://rogerdudler.github.io/git-guide/" target="_blank">
+Git for dummies</a>
+
 ### JS
 
 <a href="http://www.hongkiat.com/blog/source-code-comment-styling-tips/" target="_blank">
